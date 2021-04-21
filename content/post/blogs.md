@@ -1,13 +1,12 @@
 ---
-title: "Blogs"
+title: "技术博客收集"
 date: 2021-04-21T13:08:05+08:00
 draft: false
 tags: ["镜像", "博客", "工具"]
 categories: ["收集"]
 author: "王清"
 
-weight: 100
-contentCopyright: MIT
+weight: 10
 autoCollapseToc: false
 
 ---
