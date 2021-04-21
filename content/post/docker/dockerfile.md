@@ -1,3 +1,17 @@
+---
+title: "Blog"
+date: 2021-04-21T18:10:38+08:00
+lastmod: 2021-04-21T18:10:38+08:00
+draft: false
+keywords: []
+description: "manjoc'blog"
+tags: []
+categories: []
+author: "王清"
+---
+
+# docker file
+
 ```dockerfile
 FROM python:2.7-stretch
 
