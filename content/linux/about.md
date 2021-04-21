@@ -6,3 +6,7 @@ tags: ["linux","sre","ops"]
 ---
 
 # 这个目录写一些与linux相关的文章
+
+## 工具
+
+- [flow.ci](https://flow.ci/) pipeline格式, maven, golang, npm
