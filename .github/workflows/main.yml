@@ -48,7 +48,7 @@ jobs:
       #git submodule update --init --recursive
       - name: hugo build
         run: |
-          cp -ar /web/hugo-theme-jane themes/jane
+          cp -ar /web/theme-even themes/jane
           hugo -D
         
       - name: deploy
