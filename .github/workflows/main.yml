@@ -40,5 +40,13 @@ jobs:
       - name: Go version
         run: go version
       
-      - name: build
-        run: ls
+      - name: ls dir
+        run: |
+          whoami
+          ls
+      
+      - name: hugo build
+        run: hugo -D
+        
+      - name: deploy
+        run: rm -rf /web/blog && cp -ar public /web/blog
