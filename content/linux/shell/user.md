@@ -588,3 +588,4 @@ Linux中，与用户和组相关的信息主要存储在/etc/passwd、/etc/shado
    `-rw-r--r--. 1 hadoop hadoop 193 May 14 11:20 .bash_profile`
    `-rw-r--r--. 1 hadoop hadoop 231 May 14 11:20 .bashrc`
    `drwxr-xr-x. 4 hadoop hadoop 4096 May 14 11:20 .mozilla`
+   
