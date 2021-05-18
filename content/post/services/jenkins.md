@@ -1,7 +1,7 @@
 ---
 title: "Jenkins"
 date: 2021-04-25T11:08:08+08:00
-lastmod: 2021-04-25T11:08:08+08:00
+lastmod: 2021-05-18T11:08:08+08:00
 draft: false
 keywords: []
 description: "manjoc'blog"
